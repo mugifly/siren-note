@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta charset="UTF-8">
+  	<title><%= title %></title>
+  	<%= stylesheet '/css/basic.css' %>
+  </head>
+  <body>
+	  <header>
+	  	<div id="logo">&nbsp;</div>
+	  	<div id="head_bar">
+	  		<ul class="head_bar_btns">
+	  			<li class="head_bar_btns">Library</li>
+	  			<li class="head_bar_btns">Settings</li>
+	  		</ul>
+	  	</div>
+	  	<div id="player_pane">
+	  		<div id="playing_list_pane">
+	  			&nbsp;
+	  		</div>
+	  	</div>
+	  </header>
+	  <article><%= content %></article>
+	  <footer>&nbsp;</footer>
+  </boby>
+</html>

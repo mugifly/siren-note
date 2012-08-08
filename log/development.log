@@ -1,0 +1,1097 @@
+[Tue Aug  7 15:23:12 2012] [info] Listening at "http://*:3000".
+[Tue Aug  7 15:23:16 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  7 15:23:16 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:23:16 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:23:16 2012] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  7 15:23:16 2012] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  7 15:23:16 2012] [debug] 200 OK (0.100522s, 9.948/s).
+[Tue Aug  7 15:23:18 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:23:18 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:23:18 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:23:18 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:23:18 2012] [debug] 200 OK (0.004784s, 209.030/s).
+[Tue Aug  7 15:25:26 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:25:26 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:25:26 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:25:26 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:25:26 2012] [debug] 200 OK (0.001623s, 616.143/s).
+[Tue Aug  7 15:25:26 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:25:26 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:25:26 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:25:26 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:25:26 2012] [debug] 200 OK (0.005635s, 177.462/s).
+[Tue Aug  7 15:27:13 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:27:13 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:27:13 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:27:13 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:27:13 2012] [debug] 200 OK (0.002163s, 462.321/s).
+[Tue Aug  7 15:27:14 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:27:14 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:27:14 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:27:14 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:27:14 2012] [debug] 200 OK (0.001864s, 536.481/s).
+[Tue Aug  7 15:27:23 2012] [info] Listening at "http://*:3000".
+[Tue Aug  7 15:27:24 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  7 15:27:24 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:27:24 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:27:24 2012] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  7 15:27:24 2012] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  7 15:27:24 2012] [debug] 200 OK (0.016315s, 61.293/s).
+[Tue Aug  7 15:27:25 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:27:25 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:27:25 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:27:25 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:27:25 2012] [debug] 200 OK (0.005876s, 170.184/s).
+[Tue Aug  7 15:34:55 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  7 15:34:55 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:34:55 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:34:55 2012] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  7 15:34:55 2012] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  7 15:34:55 2012] [debug] 200 OK (0.018148s, 55.102/s).
+[Tue Aug  7 15:34:55 2012] [debug] GET /css/img/header_logo.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:34:55 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Aug  7 15:34:55 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Aug  7 15:34:55 2012] [debug] Rendering inline template.
+[Tue Aug  7 15:34:55 2012] [debug] Rendering inline template.
+[Tue Aug  7 15:34:55 2012] [debug] 404 Not Found (0.015212s, 65.738/s).
+[Tue Aug  7 15:34:55 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:34:55 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:34:55 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:34:55 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:34:55 2012] [debug] 200 OK (0.005064s, 197.472/s).
+[Tue Aug  7 15:35:04 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:35:04 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:35:04 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:35:04 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:35:04 2012] [debug] 200 OK (0.007164s, 139.587/s).
+[Tue Aug  7 15:35:30 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:35:30 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:35:30 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:35:30 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:35:30 2012] [debug] 200 OK (0.003487s, 286.779/s).
+[Tue Aug  7 15:35:57 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:35:57 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:35:57 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:35:57 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:35:57 2012] [debug] 200 OK (0.003770s, 265.252/s).
+[Tue Aug  7 15:36:14 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:36:14 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:36:14 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:36:14 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:36:14 2012] [debug] 200 OK (0.002673s, 374.111/s).
+[Tue Aug  7 15:36:27 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:36:27 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:36:27 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:36:27 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:36:27 2012] [debug] 200 OK (0.002192s, 456.204/s).
+[Tue Aug  7 15:36:34 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:36:34 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:36:34 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:36:34 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:36:34 2012] [debug] 200 OK (0.002233s, 447.828/s).
+[Tue Aug  7 15:36:40 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:36:40 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:36:40 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:36:40 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:36:40 2012] [debug] 200 OK (0.005961s, 167.757/s).
+[Tue Aug  7 15:36:45 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:36:45 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:36:45 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:36:45 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:36:45 2012] [debug] 200 OK (0.005288s, 189.107/s).
+[Tue Aug  7 15:42:11 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  7 15:42:11 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:42:11 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:42:11 2012] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  7 15:42:11 2012] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  7 15:42:11 2012] [debug] 200 OK (0.015514s, 64.458/s).
+[Tue Aug  7 15:42:12 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:42:12 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:42:12 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:42:12 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:42:12 2012] [debug] 200 OK (0.004722s, 211.775/s).
+[Tue Aug  7 15:42:30 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:42:30 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:42:30 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:42:30 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:42:30 2012] [debug] 200 OK (0.001511s, 661.813/s).
+[Tue Aug  7 15:42:31 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:42:31 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:42:31 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:42:31 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:42:31 2012] [debug] 200 OK (0.003729s, 268.168/s).
+[Tue Aug  7 15:43:47 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:43:47 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:43:47 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:43:47 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:43:47 2012] [debug] 200 OK (0.001759s, 568.505/s).
+[Tue Aug  7 15:43:48 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:43:48 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:43:48 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:43:48 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:43:48 2012] [debug] 200 OK (0.005360s, 186.567/s).
+[Tue Aug  7 15:43:57 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:43:57 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:43:57 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:43:57 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:43:57 2012] [debug] 200 OK (0.005114s, 195.542/s).
+[Tue Aug  7 15:43:57 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:43:57 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:43:57 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:43:57 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:43:57 2012] [debug] 200 OK (0.002642s, 378.501/s).
+[Tue Aug  7 15:43:58 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:43:58 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:43:58 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:43:58 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:43:58 2012] [debug] 200 OK (0.002787s, 358.809/s).
+[Tue Aug  7 15:44:08 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:44:08 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:44:08 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:44:08 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:44:08 2012] [debug] 200 OK (0.002175s, 459.770/s).
+[Tue Aug  7 15:44:21 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:44:21 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:44:21 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:44:21 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:44:21 2012] [debug] 200 OK (0.003566s, 280.426/s).
+[Tue Aug  7 15:44:44 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:44:44 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:44:44 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:44:44 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:44:44 2012] [debug] 200 OK (0.002462s, 406.174/s).
+[Tue Aug  7 15:44:45 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:44:45 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:44:45 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:44:45 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:44:45 2012] [debug] 200 OK (0.006288s, 159.033/s).
+[Tue Aug  7 15:45:13 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:45:13 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:45:13 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:45:13 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:45:13 2012] [debug] 200 OK (0.003028s, 330.251/s).
+[Tue Aug  7 15:45:14 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:45:14 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:45:14 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:45:14 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:45:14 2012] [debug] 200 OK (0.003769s, 265.322/s).
+[Tue Aug  7 15:45:42 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:45:42 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:45:42 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:45:42 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:45:42 2012] [debug] 200 OK (0.003573s, 279.877/s).
+[Tue Aug  7 15:57:01 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  7 15:57:01 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:57:01 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:57:01 2012] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  7 15:57:01 2012] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  7 15:57:01 2012] [debug] 200 OK (0.015643s, 63.926/s).
+[Tue Aug  7 15:57:14 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:57:14 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:57:14 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:57:14 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:57:14 2012] [debug] 200 OK (0.002294s, 435.920/s).
+[Tue Aug  7 15:57:41 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:57:41 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:57:41 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:57:41 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:57:41 2012] [debug] 200 OK (0.004337s, 230.574/s).
+[Tue Aug  7 15:59:04 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 15:59:04 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 15:59:04 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 15:59:04 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 15:59:04 2012] [debug] 200 OK (0.003372s, 296.560/s).
+[Tue Aug  7 16:03:26 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  7 16:03:26 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:03:26 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:03:26 2012] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  7 16:03:26 2012] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  7 16:03:26 2012] [debug] 200 OK (0.022720s, 44.014/s).
+[Tue Aug  7 16:03:37 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  7 16:03:37 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:03:37 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:03:37 2012] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  7 16:03:37 2012] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  7 16:03:37 2012] [debug] 200 OK (0.020628s, 48.478/s).
+[Tue Aug  7 16:04:05 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  7 16:04:05 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:04:05 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:04:05 2012] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  7 16:04:05 2012] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  7 16:04:05 2012] [debug] 200 OK (0.018300s, 54.645/s).
+[Tue Aug  7 16:04:05 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:04:05 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:04:05 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:04:05 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:04:05 2012] [debug] 200 OK (0.002151s, 464.900/s).
+[Tue Aug  7 16:04:19 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  7 16:04:19 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:04:19 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:04:19 2012] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  7 16:04:19 2012] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  7 16:04:19 2012] [debug] 200 OK (0.023143s, 43.210/s).
+[Tue Aug  7 16:04:45 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:04:45 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:04:45 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:04:45 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:04:45 2012] [debug] 200 OK (0.003208s, 311.721/s).
+[Tue Aug  7 16:05:00 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:05:00 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:05:00 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:05:00 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:05:00 2012] [debug] 200 OK (0.004836s, 206.782/s).
+[Tue Aug  7 16:07:35 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:07:35 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:07:35 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:07:35 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:07:35 2012] [debug] 200 OK (0.001708s, 585.480/s).
+[Tue Aug  7 16:07:36 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:07:36 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:07:36 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:07:36 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:07:36 2012] [debug] 200 OK (0.002533s, 394.789/s).
+[Tue Aug  7 16:07:36 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:07:36 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:07:36 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:07:36 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:07:36 2012] [debug] 200 OK (0.002590s, 386.100/s).
+[Tue Aug  7 16:07:37 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:07:37 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:07:37 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:07:37 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:07:37 2012] [debug] 200 OK (0.002440s, 409.836/s).
+[Tue Aug  7 16:07:45 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:07:45 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:07:45 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:07:45 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:07:45 2012] [debug] 200 OK (0.003150s, 317.460/s).
+[Tue Aug  7 16:08:03 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:08:03 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:08:03 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:08:03 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:08:03 2012] [debug] 200 OK (0.001510s, 662.252/s).
+[Tue Aug  7 16:08:13 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:08:13 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:08:13 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:08:13 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:08:13 2012] [debug] 200 OK (0.002294s, 435.920/s).
+[Tue Aug  7 16:08:19 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:08:19 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:08:19 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:08:19 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:08:19 2012] [debug] 200 OK (0.002129s, 469.704/s).
+[Tue Aug  7 16:08:21 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:08:21 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:08:21 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:08:21 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:08:21 2012] [debug] 200 OK (0.003753s, 266.454/s).
+[Tue Aug  7 16:08:29 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:08:29 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:08:29 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:08:29 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:08:29 2012] [debug] 200 OK (0.002002s, 499.500/s).
+[Tue Aug  7 16:09:10 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:09:10 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:09:10 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:09:10 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:09:10 2012] [debug] 200 OK (0.001526s, 655.308/s).
+[Tue Aug  7 16:09:10 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:09:10 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:09:10 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:09:10 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:09:10 2012] [debug] 200 OK (0.001875s, 533.333/s).
+[Tue Aug  7 16:10:36 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:10:36 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:10:36 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:10:36 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:10:36 2012] [debug] 200 OK (0.001895s, 527.704/s).
+[Tue Aug  7 16:10:37 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:10:37 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:10:37 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:10:37 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:10:37 2012] [debug] 200 OK (0.004464s, 224.014/s).
+[Tue Aug  7 16:10:43 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:10:43 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:10:43 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:10:43 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:10:43 2012] [debug] 200 OK (0.002060s, 485.437/s).
+[Tue Aug  7 16:10:44 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:10:44 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:10:44 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:10:44 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:10:44 2012] [debug] 200 OK (0.001846s, 541.712/s).
+[Tue Aug  7 16:11:13 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  7 16:11:13 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:11:13 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:11:13 2012] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  7 16:11:13 2012] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  7 16:11:13 2012] [debug] 200 OK (0.018405s, 54.333/s).
+[Tue Aug  7 16:11:19 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:11:19 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:11:19 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:11:19 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:11:19 2012] [debug] 200 OK (0.002258s, 442.870/s).
+[Tue Aug  7 16:11:30 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  7 16:11:30 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:11:30 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:11:30 2012] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  7 16:11:30 2012] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  7 16:11:30 2012] [debug] 200 OK (0.016896s, 59.186/s).
+[Tue Aug  7 16:11:41 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:11:41 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:11:41 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:11:41 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:11:41 2012] [debug] 200 OK (0.004159s, 240.442/s).
+[Tue Aug  7 16:11:53 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:11:53 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:11:53 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:11:53 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:11:53 2012] [debug] 200 OK (0.002434s, 410.846/s).
+[Tue Aug  7 16:13:00 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:13:00 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:13:00 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:13:00 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:13:00 2012] [debug] 200 OK (0.003028s, 330.251/s).
+[Tue Aug  7 16:13:01 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:13:01 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:13:01 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:13:01 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:13:01 2012] [debug] 200 OK (0.007007s, 142.714/s).
+[Tue Aug  7 16:13:07 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:13:07 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:13:07 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:13:07 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:13:07 2012] [debug] 200 OK (0.003800s, 263.158/s).
+[Tue Aug  7 16:13:08 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:13:08 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:13:08 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:13:08 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:13:08 2012] [debug] 200 OK (0.003891s, 257.003/s).
+[Tue Aug  7 16:13:17 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:13:17 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:13:17 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:13:17 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:13:17 2012] [debug] 200 OK (0.001873s, 533.903/s).
+[Tue Aug  7 16:13:18 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:13:18 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:13:18 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:13:18 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:13:18 2012] [debug] 200 OK (0.005632s, 177.557/s).
+[Tue Aug  7 16:14:01 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:14:01 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:14:01 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:14:01 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:14:01 2012] [debug] 200 OK (0.005814s, 171.999/s).
+[Tue Aug  7 16:14:02 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:14:02 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:14:02 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:14:02 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:14:02 2012] [debug] 200 OK (0.002840s, 352.113/s).
+[Tue Aug  7 16:14:16 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:14:16 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:14:16 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:14:16 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:14:16 2012] [debug] 200 OK (0.004678s, 213.767/s).
+[Tue Aug  7 16:14:17 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:14:17 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:14:17 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:14:17 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:14:17 2012] [debug] 200 OK (0.003052s, 327.654/s).
+[Tue Aug  7 16:14:25 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:14:25 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:14:25 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:14:25 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:14:25 2012] [debug] 200 OK (0.004011s, 249.314/s).
+[Tue Aug  7 16:14:26 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:14:26 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:14:26 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:14:26 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:14:26 2012] [debug] 200 OK (0.001953s, 512.033/s).
+[Tue Aug  7 16:15:07 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:15:07 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:15:07 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:15:07 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:15:07 2012] [debug] 200 OK (0.004500s, 222.222/s).
+[Tue Aug  7 16:15:08 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:15:08 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:15:08 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:15:08 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:15:08 2012] [debug] 200 OK (0.003297s, 303.306/s).
+[Tue Aug  7 16:16:11 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:16:11 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:16:11 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:16:11 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:16:11 2012] [debug] 200 OK (0.002587s, 386.548/s).
+[Tue Aug  7 16:16:12 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:16:12 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:16:12 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:16:12 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:16:12 2012] [debug] 200 OK (0.004234s, 236.183/s).
+[Tue Aug  7 16:20:57 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:20:57 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:20:57 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:20:57 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:20:57 2012] [debug] 200 OK (0.002344s, 426.621/s).
+[Tue Aug  7 16:20:57 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:20:57 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:20:57 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:20:57 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:20:57 2012] [debug] 200 OK (0.001968s, 508.130/s).
+[Tue Aug  7 16:21:11 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:21:11 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:21:11 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:21:11 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:21:11 2012] [debug] 200 OK (0.005299s, 188.715/s).
+[Tue Aug  7 16:21:11 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:21:11 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:21:11 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:21:11 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:21:11 2012] [debug] 200 OK (0.005993s, 166.861/s).
+[Tue Aug  7 16:21:12 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:21:12 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:21:12 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:21:12 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:21:12 2012] [debug] 200 OK (0.005277s, 189.502/s).
+[Tue Aug  7 16:21:12 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:21:12 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:21:12 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:21:12 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:21:12 2012] [debug] 200 OK (0.001960s, 510.204/s).
+[Tue Aug  7 16:21:12 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:21:12 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:21:12 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:21:12 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:21:12 2012] [debug] 200 OK (0.002844s, 351.617/s).
+[Tue Aug  7 16:21:23 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:21:23 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:21:23 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:21:23 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:21:23 2012] [debug] 200 OK (0.004363s, 229.200/s).
+[Tue Aug  7 16:21:23 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:21:23 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:21:23 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:21:23 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:21:23 2012] [debug] 200 OK (0.003318s, 301.386/s).
+[Tue Aug  7 16:21:40 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:21:40 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:21:40 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:21:40 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:21:40 2012] [debug] 200 OK (0.003401s, 294.031/s).
+[Tue Aug  7 16:21:41 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:21:41 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:21:41 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:21:41 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:21:41 2012] [debug] 200 OK (0.001896s, 527.426/s).
+[Tue Aug  7 16:21:47 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:21:47 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:21:47 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:21:47 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:21:47 2012] [debug] 200 OK (0.002203s, 453.926/s).
+[Tue Aug  7 16:21:47 2012] [debug] GET /css/head_bar_separator.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:21:47 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Aug  7 16:21:47 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Aug  7 16:21:47 2012] [debug] Rendering inline template.
+[Tue Aug  7 16:21:47 2012] [debug] Rendering inline template.
+[Tue Aug  7 16:21:47 2012] [debug] 404 Not Found (0.015673s, 63.804/s).
+[Tue Aug  7 16:21:47 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:21:47 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:21:47 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:21:47 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:21:47 2012] [debug] 200 OK (0.005642s, 177.242/s).
+[Tue Aug  7 16:22:02 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:22:02 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:22:02 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:22:02 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:22:02 2012] [debug] 200 OK (0.002351s, 425.351/s).
+[Tue Aug  7 16:22:02 2012] [debug] GET /css/head_bar_separator.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:22:02 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Aug  7 16:22:02 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Aug  7 16:22:02 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:02 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:02 2012] [debug] 404 Not Found (0.006737s, 148.434/s).
+[Tue Aug  7 16:22:03 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:22:03 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:22:03 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:22:03 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:22:03 2012] [debug] 200 OK (0.005296s, 188.822/s).
+[Tue Aug  7 16:22:34 2012] [debug] GET /css/head_bar_separator.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:22:34 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Aug  7 16:22:34 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Aug  7 16:22:34 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:34 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:34 2012] [debug] 404 Not Found (0.011673s, 85.668/s).
+[Tue Aug  7 16:22:34 2012] [debug] GET /css/head_bar_separator.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:22:34 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Aug  7 16:22:34 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Aug  7 16:22:34 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:34 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:34 2012] [debug] 404 Not Found (0.015047s, 66.458/s).
+[Tue Aug  7 16:22:34 2012] [debug] GET /css/head_bar_separator.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:22:34 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Aug  7 16:22:34 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Aug  7 16:22:34 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:34 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:34 2012] [debug] 404 Not Found (0.006305s, 158.604/s).
+[Tue Aug  7 16:22:34 2012] [debug] GET /css/head_bar_separator.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:22:34 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Aug  7 16:22:34 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Aug  7 16:22:34 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:34 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:34 2012] [debug] 404 Not Found (0.009055s, 110.436/s).
+[Tue Aug  7 16:22:35 2012] [debug] GET /css/head_bar_separator.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:22:35 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Aug  7 16:22:35 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Aug  7 16:22:35 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:35 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:35 2012] [debug] 404 Not Found (0.010811s, 92.498/s).
+[Tue Aug  7 16:22:35 2012] [debug] GET /css/head_bar_separator.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:22:35 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Aug  7 16:22:35 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Aug  7 16:22:35 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:35 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:35 2012] [debug] 404 Not Found (0.005898s, 169.549/s).
+[Tue Aug  7 16:22:35 2012] [debug] GET /css/head_bar_separator.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:22:35 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Aug  7 16:22:35 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Aug  7 16:22:35 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:35 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:35 2012] [debug] 404 Not Found (0.007335s, 136.333/s).
+[Tue Aug  7 16:22:39 2012] [debug] GET /css/.head_bar_separator.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:22:39 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Aug  7 16:22:39 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Aug  7 16:22:39 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:39 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:39 2012] [debug] 404 Not Found (0.009900s, 101.010/s).
+[Tue Aug  7 16:22:39 2012] [debug] GET /css/..head_bar_separator.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:22:39 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Aug  7 16:22:39 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Aug  7 16:22:39 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:39 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:39 2012] [debug] 404 Not Found (0.006681s, 149.678/s).
+[Tue Aug  7 16:22:40 2012] [debug] GET /head_bar_separator.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:22:40 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Aug  7 16:22:40 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Aug  7 16:22:40 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:40 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:40 2012] [debug] 404 Not Found (0.009435s, 105.988/s).
+[Tue Aug  7 16:22:41 2012] [debug] GET /ihead_bar_separator.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:22:41 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Aug  7 16:22:41 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Aug  7 16:22:41 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:41 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:41 2012] [debug] 404 Not Found (0.014362s, 69.628/s).
+[Tue Aug  7 16:22:41 2012] [debug] GET /imhead_bar_separator.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:22:41 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Aug  7 16:22:41 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Aug  7 16:22:41 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:41 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:41 2012] [debug] 404 Not Found (0.006496s, 153.941/s).
+[Tue Aug  7 16:22:41 2012] [debug] GET /im/head_bar_separator.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:22:41 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Aug  7 16:22:41 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Aug  7 16:22:41 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:41 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:41 2012] [debug] 404 Not Found (0.006073s, 164.663/s).
+[Tue Aug  7 16:22:42 2012] [debug] GET /im/ghead_bar_separator.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:22:42 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Aug  7 16:22:42 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Aug  7 16:22:42 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:42 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:42 2012] [debug] 404 Not Found (0.006065s, 164.880/s).
+[Tue Aug  7 16:22:42 2012] [debug] GET /im/head_bar_separator.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:22:42 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Aug  7 16:22:42 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Aug  7 16:22:42 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:42 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:42 2012] [debug] 404 Not Found (0.008628s, 115.902/s).
+[Tue Aug  7 16:22:42 2012] [debug] GET /imhead_bar_separator.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:22:42 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Aug  7 16:22:42 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Aug  7 16:22:42 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:42 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:42 2012] [debug] 404 Not Found (0.010323s, 96.871/s).
+[Tue Aug  7 16:22:42 2012] [debug] GET /imghead_bar_separator.png (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:22:42 2012] [debug] Template "not_found.development.html.ep" not found.
+[Tue Aug  7 16:22:42 2012] [debug] Template "not_found.html.ep" not found.
+[Tue Aug  7 16:22:42 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:42 2012] [debug] Rendering cached inline template.
+[Tue Aug  7 16:22:42 2012] [debug] 404 Not Found (0.014456s, 69.175/s).
+[Tue Aug  7 16:23:01 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:23:01 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:23:01 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:23:01 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:23:01 2012] [debug] 200 OK (0.005722s, 174.764/s).
+[Tue Aug  7 16:23:02 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:23:02 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:23:02 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:23:02 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:23:02 2012] [debug] 200 OK (0.004525s, 220.994/s).
+[Tue Aug  7 16:23:28 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:23:28 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:23:28 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:23:28 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:23:28 2012] [debug] 200 OK (0.004355s, 229.621/s).
+[Tue Aug  7 16:23:29 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:23:29 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:23:29 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:23:29 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:23:29 2012] [debug] 200 OK (0.002431s, 411.353/s).
+[Tue Aug  7 16:24:22 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:24:22 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:24:22 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:24:22 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:24:22 2012] [debug] 200 OK (0.002024s, 494.071/s).
+[Tue Aug  7 16:24:23 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:24:23 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:24:23 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:24:23 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:24:23 2012] [debug] 200 OK (0.008101s, 123.442/s).
+[Tue Aug  7 16:27:09 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:27:09 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:27:09 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:27:09 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:27:09 2012] [debug] 200 OK (0.002174s, 459.982/s).
+[Tue Aug  7 16:27:10 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:27:10 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:27:10 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:27:10 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:27:10 2012] [debug] 200 OK (0.002784s, 359.195/s).
+[Tue Aug  7 16:27:52 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:27:52 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:27:52 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:27:52 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:27:52 2012] [debug] 200 OK (0.007023s, 142.389/s).
+[Tue Aug  7 16:27:53 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:27:53 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:27:53 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:27:53 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:27:53 2012] [debug] 200 OK (0.005877s, 170.155/s).
+[Tue Aug  7 16:28:08 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:28:08 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:28:08 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:28:08 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:28:08 2012] [debug] 200 OK (0.005929s, 168.663/s).
+[Tue Aug  7 16:28:23 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:28:23 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:28:23 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:28:23 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:28:23 2012] [debug] 200 OK (0.004908s, 203.749/s).
+[Tue Aug  7 16:28:24 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:28:24 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:28:24 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:28:24 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:28:24 2012] [debug] 200 OK (0.005874s, 170.242/s).
+[Tue Aug  7 16:28:24 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:28:24 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:28:24 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:28:24 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:28:24 2012] [debug] 200 OK (0.003347s, 298.775/s).
+[Tue Aug  7 16:28:34 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:28:34 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:28:34 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:28:34 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:28:34 2012] [debug] 200 OK (0.002219s, 450.653/s).
+[Tue Aug  7 16:28:48 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:28:48 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:28:48 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:28:48 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:28:48 2012] [debug] 200 OK (0.002534s, 394.633/s).
+[Tue Aug  7 16:28:56 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:28:56 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:28:56 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:28:56 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:28:56 2012] [debug] 200 OK (0.004946s, 202.184/s).
+[Tue Aug  7 16:28:57 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:28:57 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:28:57 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:28:57 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:28:57 2012] [debug] 200 OK (0.003878s, 257.865/s).
+[Tue Aug  7 16:29:02 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:29:02 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:29:02 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:29:02 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:29:02 2012] [debug] 200 OK (0.002042s, 489.716/s).
+[Tue Aug  7 16:29:13 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:29:13 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:29:13 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:29:13 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:29:13 2012] [debug] 200 OK (0.002482s, 402.901/s).
+[Tue Aug  7 16:29:14 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:29:14 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:29:14 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:29:14 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:29:14 2012] [debug] 200 OK (0.003966s, 252.143/s).
+[Tue Aug  7 16:29:18 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:29:18 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:29:18 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:29:18 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:29:18 2012] [debug] 200 OK (0.002595s, 385.356/s).
+[Tue Aug  7 16:29:19 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:29:19 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:29:19 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:29:19 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:29:19 2012] [debug] 200 OK (0.002652s, 377.074/s).
+[Tue Aug  7 16:29:27 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:29:27 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:29:27 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:29:27 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:29:27 2012] [debug] 200 OK (0.005566s, 179.662/s).
+[Tue Aug  7 16:29:58 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:29:58 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:29:58 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:29:58 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:29:58 2012] [debug] 200 OK (0.001596s, 626.566/s).
+[Tue Aug  7 16:29:59 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:29:59 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:29:59 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:29:59 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:29:59 2012] [debug] 200 OK (0.005693s, 175.654/s).
+[Tue Aug  7 16:30:09 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:30:09 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:30:09 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:30:09 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:30:09 2012] [debug] 200 OK (0.004759s, 210.128/s).
+[Tue Aug  7 16:30:10 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:30:10 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:30:10 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:30:10 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:30:10 2012] [debug] 200 OK (0.002555s, 391.389/s).
+[Tue Aug  7 16:30:18 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:30:18 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:30:18 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:30:18 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:30:18 2012] [debug] 200 OK (0.005817s, 171.910/s).
+[Tue Aug  7 16:30:19 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:30:19 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:30:19 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:30:19 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:30:19 2012] [debug] 200 OK (0.002140s, 467.290/s).
+[Tue Aug  7 16:31:03 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:31:03 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:31:03 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:31:03 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:31:03 2012] [debug] 200 OK (0.005692s, 175.685/s).
+[Tue Aug  7 16:31:23 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:31:23 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:31:23 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:31:23 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:31:23 2012] [debug] 200 OK (0.001863s, 536.769/s).
+[Tue Aug  7 16:31:24 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:31:24 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:31:24 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:31:24 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:31:24 2012] [debug] 200 OK (0.002387s, 418.936/s).
+[Tue Aug  7 16:31:47 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:31:47 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:31:47 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:31:47 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:31:47 2012] [debug] 200 OK (0.004502s, 222.124/s).
+[Tue Aug  7 16:31:48 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:31:48 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:31:48 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:31:48 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:31:48 2012] [debug] 200 OK (0.005658s, 176.741/s).
+[Tue Aug  7 16:32:03 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:32:03 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:32:03 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:32:03 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:32:03 2012] [debug] 200 OK (0.002628s, 380.518/s).
+[Tue Aug  7 16:32:16 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:32:16 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:32:16 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:32:16 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:32:16 2012] [debug] 200 OK (0.005676s, 176.180/s).
+[Tue Aug  7 16:35:40 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:35:40 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:35:40 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:35:40 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:35:40 2012] [debug] 200 OK (0.002523s, 396.354/s).
+[Tue Aug  7 16:35:41 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:35:41 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:35:41 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:35:41 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:35:41 2012] [debug] 200 OK (0.006067s, 164.826/s).
+[Tue Aug  7 16:35:41 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:35:41 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:35:41 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:35:41 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:35:41 2012] [debug] 200 OK (0.004462s, 224.115/s).
+[Tue Aug  7 16:35:48 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:35:48 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:35:48 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:35:48 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:35:48 2012] [debug] 200 OK (0.002353s, 424.989/s).
+[Tue Aug  7 16:35:48 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:35:48 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:35:48 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:35:48 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:35:48 2012] [debug] 200 OK (0.008059s, 124.085/s).
+[Tue Aug  7 16:37:40 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:37:40 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:37:40 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:37:40 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:37:40 2012] [debug] 200 OK (0.002376s, 420.875/s).
+[Tue Aug  7 16:38:27 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  7 16:38:27 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:38:27 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:38:27 2012] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  7 16:38:27 2012] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  7 16:38:27 2012] [debug] 200 OK (0.027087s, 36.918/s).
+[Tue Aug  7 16:38:39 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:38:39 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:38:39 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:38:39 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:38:39 2012] [debug] 200 OK (0.004085s, 244.798/s).
+[Tue Aug  7 16:38:40 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:38:40 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:38:40 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:38:40 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:38:40 2012] [debug] 200 OK (0.005695s, 175.593/s).
+[Tue Aug  7 16:38:54 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:38:54 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:38:54 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:38:54 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:38:54 2012] [debug] 200 OK (0.005025s, 199.005/s).
+[Tue Aug  7 16:38:55 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:38:55 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:38:55 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:38:55 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:38:55 2012] [debug] 200 OK (0.002110s, 473.934/s).
+[Tue Aug  7 16:39:17 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:39:17 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:39:17 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:39:17 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:39:17 2012] [debug] 200 OK (0.003429s, 291.630/s).
+[Tue Aug  7 16:39:30 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:39:30 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:39:30 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:39:30 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:39:30 2012] [debug] 200 OK (0.002394s, 417.711/s).
+[Tue Aug  7 16:39:50 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:39:50 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:39:50 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:39:50 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:39:50 2012] [debug] 200 OK (0.002553s, 391.696/s).
+[Tue Aug  7 16:39:56 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:39:56 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:39:56 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:39:56 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:39:56 2012] [debug] 200 OK (0.007781s, 128.518/s).
+[Tue Aug  7 16:40:36 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:40:36 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:40:36 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:40:36 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:40:36 2012] [debug] 200 OK (0.003799s, 263.227/s).
+[Tue Aug  7 16:40:37 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:40:37 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:40:37 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:40:37 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:40:37 2012] [debug] 200 OK (0.001832s, 545.852/s).
+[Tue Aug  7 16:40:55 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:40:55 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:40:55 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:40:55 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:40:55 2012] [debug] 200 OK (0.005603s, 178.476/s).
+[Tue Aug  7 16:41:18 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:41:18 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:41:18 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:41:18 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:41:18 2012] [debug] 200 OK (0.001955s, 511.509/s).
+[Tue Aug  7 16:41:23 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:41:23 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:41:23 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:41:23 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:41:23 2012] [debug] 200 OK (0.001752s, 570.776/s).
+[Tue Aug  7 16:41:24 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:41:24 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:41:24 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:41:24 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:41:24 2012] [debug] 200 OK (0.002753s, 363.240/s).
+[Tue Aug  7 16:41:51 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:41:51 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:41:51 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:41:51 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:41:51 2012] [debug] 200 OK (0.002532s, 394.945/s).
+[Tue Aug  7 16:41:52 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:41:52 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:41:52 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:41:52 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:41:52 2012] [debug] 200 OK (0.003464s, 288.684/s).
+[Tue Aug  7 16:43:16 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:43:16 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:43:16 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:43:16 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:43:16 2012] [debug] 200 OK (0.006007s, 166.472/s).
+[Tue Aug  7 16:43:17 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:43:17 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:43:17 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:43:17 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:43:17 2012] [debug] 200 OK (0.002741s, 364.830/s).
+[Tue Aug  7 16:43:28 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:43:28 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:43:28 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:43:28 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:43:28 2012] [debug] 200 OK (0.006951s, 143.864/s).
+[Tue Aug  7 16:43:29 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:43:29 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:43:29 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:43:29 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:43:29 2012] [debug] 200 OK (0.003520s, 284.091/s).
+[Tue Aug  7 16:43:36 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:43:36 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:43:36 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:43:36 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:43:36 2012] [debug] 200 OK (0.004304s, 232.342/s).
+[Tue Aug  7 16:43:42 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:43:42 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:43:42 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:43:42 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:43:42 2012] [debug] 200 OK (0.002474s, 404.204/s).
+[Tue Aug  7 16:44:17 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:44:17 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:44:17 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:44:17 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:44:17 2012] [debug] 200 OK (0.002045s, 488.998/s).
+[Tue Aug  7 16:44:22 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:44:22 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:44:22 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:44:22 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:44:22 2012] [debug] 200 OK (0.002333s, 428.633/s).
+[Tue Aug  7 16:45:55 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:45:55 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:45:55 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:45:55 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:45:55 2012] [debug] 200 OK (0.003006s, 332.668/s).
+[Tue Aug  7 16:45:56 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:45:56 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:45:56 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:45:56 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:45:56 2012] [debug] 200 OK (0.002944s, 339.674/s).
+[Tue Aug  7 16:46:08 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:46:08 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:46:08 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:46:08 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:46:08 2012] [debug] 200 OK (0.002817s, 354.988/s).
+[Tue Aug  7 16:46:09 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:46:09 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:46:09 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:46:09 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:46:09 2012] [debug] 200 OK (0.002780s, 359.712/s).
+[Tue Aug  7 16:46:28 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:46:28 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:46:28 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:46:28 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:46:28 2012] [debug] 200 OK (0.002527s, 395.726/s).
+[Tue Aug  7 16:46:29 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:46:29 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:46:29 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:46:29 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:46:29 2012] [debug] 200 OK (0.007998s, 125.031/s).
+[Tue Aug  7 16:46:29 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:46:29 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:46:29 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:46:29 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:46:29 2012] [debug] 200 OK (0.002531s, 395.101/s).
+[Tue Aug  7 16:46:38 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:46:38 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:46:38 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:46:38 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:46:38 2012] [debug] 200 OK (0.004162s, 240.269/s).
+[Tue Aug  7 16:46:39 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:46:39 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:46:39 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:46:39 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:46:39 2012] [debug] 200 OK (0.005902s, 169.434/s).
+[Tue Aug  7 16:46:46 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:46:46 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:46:46 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:46:46 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:46:46 2012] [debug] 200 OK (0.006325s, 158.103/s).
+[Tue Aug  7 16:46:47 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:46:47 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:46:47 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:46:47 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:46:47 2012] [debug] 200 OK (0.002049s, 488.043/s).
+[Tue Aug  7 16:46:59 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:46:59 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:46:59 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:46:59 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:46:59 2012] [debug] 200 OK (0.002731s, 366.166/s).
+[Tue Aug  7 16:47:00 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:47:00 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:47:00 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:47:00 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:47:00 2012] [debug] 200 OK (0.006144s, 162.760/s).
+[Tue Aug  7 16:47:49 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:47:49 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:47:49 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:47:49 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:47:49 2012] [debug] 200 OK (0.002666s, 375.094/s).
+[Tue Aug  7 16:49:16 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  7 16:49:16 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:49:16 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:49:16 2012] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  7 16:49:16 2012] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  7 16:49:16 2012] [debug] 200 OK (0.017214s, 58.092/s).
+[Tue Aug  7 16:49:23 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:49:23 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:49:23 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:49:23 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:49:23 2012] [debug] 200 OK (0.001847s, 541.419/s).
+[Tue Aug  7 16:49:38 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:49:38 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:49:38 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:49:38 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:49:38 2012] [debug] 200 OK (0.004468s, 223.814/s).
+[Tue Aug  7 16:49:51 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:49:51 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:49:51 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:49:51 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:49:51 2012] [debug] 200 OK (0.004619s, 216.497/s).
+[Tue Aug  7 16:49:51 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:49:51 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:49:51 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:49:51 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:49:51 2012] [debug] 200 OK (0.005156s, 193.949/s).
+[Tue Aug  7 16:49:58 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:49:58 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:49:58 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:49:58 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:49:58 2012] [debug] 200 OK (0.003729s, 268.168/s).
+[Tue Aug  7 16:49:59 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:49:59 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:49:59 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:49:59 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:49:59 2012] [debug] 200 OK (0.001793s, 557.724/s).
+[Tue Aug  7 16:50:12 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:50:12 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:50:12 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:50:12 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:50:12 2012] [debug] 200 OK (0.001906s, 524.659/s).
+[Tue Aug  7 16:50:18 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:50:18 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:50:18 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:50:18 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:50:18 2012] [debug] 200 OK (0.005798s, 172.473/s).
+[Tue Aug  7 16:50:38 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:50:38 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:50:38 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:50:38 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:50:38 2012] [debug] 200 OK (0.002148s, 465.549/s).
+[Tue Aug  7 16:50:48 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:50:48 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:50:48 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:50:48 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:50:48 2012] [debug] 200 OK (0.005294s, 188.893/s).
+[Tue Aug  7 16:50:48 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Tue Aug  7 16:50:48 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Tue Aug  7 16:50:48 2012] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  7 16:50:48 2012] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  7 16:50:48 2012] [debug] 200 OK (0.001954s, 511.771/s).
+[Wed Aug  8 08:49:11 2012] [info] Listening at "http://*:3000".
+[Wed Aug  8 08:49:22 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Aug  8 08:49:22 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.57 Safari/537.1).
+[Wed Aug  8 08:49:22 2012] [debug] Routing to controller "SirenNote::Example" and action "welcome".
+[Wed Aug  8 08:49:22 2012] [debug] Rendering template "example/welcome.html.ep".
+[Wed Aug  8 08:49:23 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Aug  8 08:49:23 2012] [debug] 200 OK (0.487539s, 2.051/s).
