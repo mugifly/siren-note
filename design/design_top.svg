@@ -3977,15 +3977,41 @@
     </filter>
     <filter
        inkscape:collect="always"
-       id="filter5403"
-       x="-0.1500692"
-       width="1.3001384"
-       y="-0.16251134"
-       height="1.3250227">
+       id="filter5708"
+       x="-0.16156877"
+       width="1.3231375"
+       y="-0.17496444"
+       height="1.3499289">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.61435518"
-         id="feGaussianBlur5405" />
+         stdDeviation="0.65611665"
+         id="feGaussianBlur5710" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter5708-0"
+       x="-0.16156878"
+       width="1.3231375"
+       y="-0.17496444"
+       height="1.3499289">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.65611665"
+         id="feGaussianBlur5710-1" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter6682-9"
+       x="-0.16388874"
+       width="1.3277775"
+       y="-0.17232281"
+       height="1.3446456">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.85281014"
+         id="feGaussianBlur6684-9" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -3995,9 +4021,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6384656"
-     inkscape:cx="138.19649"
-     inkscape:cy="388.56517"
+     inkscape:zoom="1.4096164"
+     inkscape:cx="45.594875"
+     inkscape:cy="415.18752"
      inkscape:document-units="px"
      inkscape:current-layer="layer8"
      showgrid="false"
@@ -4024,7 +4050,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title>Masanori Ohgita</dc:title>
@@ -5684,18 +5710,6 @@
            x="33.808083"
            y="203.66545"
            style="font-size:11px">心の指すほうへ / grr..</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Ultra-Light'"
-         x="151.95399"
-         y="202.91"
-         id="text3628-8-4"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3630-3-5"
-           x="151.95399"
-           y="202.91"
-           style="font-size:9px">5:00 </tspan></text>
       <rect
          style="fill:#0077f2;fill-opacity:0.19607843;stroke:none;display:inline"
          id="rect5264-0"
@@ -5782,7 +5796,7 @@
          transform="matrix(0.60500712,0,0,0.60500712,-43.303594,69.811898)" />
       <path
          sodipodi:type="star"
-         style="fill:#ffffff;fill-opacity:1;stroke:#646464;stroke-width:0.27299824;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.34124779999999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          id="path6075"
          sodipodi:sides="5"
          sodipodi:cx="113.13131"
@@ -5909,22 +5923,21 @@
          transform="matrix(0.73259215,0,0,0.73259215,-58.140479,78.246754)" />
       <path
          inkscape:connector-curvature="0"
-         id="path6114-3-3"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f0f0f0;fill-opacity:1;stroke:#646464;stroke-width:0.05203313;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter5403);font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Medium'"
-         d="m 159.6741,222.93875 5.96954,-7.6607 0.76521,0.67593 -6.2927,8.39699 -0.71488,-0.0312 -2.81757,-5.17737 1.4143,-0.12089 1.7373,3.91512"
-         sodipodi:nodetypes="cccccccc"
-         transform="matrix(1.0050081,0,0,0.99230564,-1.7390755,1.3363082)" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6114-3-2"
+         id="path6114-3-2-6-0-0"
          style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0077f2;fill-opacity:1;stroke:none;display:inline;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Medium'"
-         d="m 158.9601,242.08016 5.85474,-7.44316 0.75907,0.6705 -6.24213,8.3295 -0.70914,-0.0309 -2.79492,-5.13576 1.40293,-0.11991 1.72334,3.88364"
+         d="m 160.18737,241.28752 5.85474,-7.44316 0.75907,0.6705 -6.24213,8.3295 -0.70914,-0.0309 -2.79492,-5.13576 1.40293,-0.11991 1.72334,3.88364"
          sodipodi:nodetypes="cccccccc" />
       <path
          inkscape:connector-curvature="0"
-         id="path6114-3"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#646464;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Medium'"
-         d="m 158.90939,222.30257 5.75076,-7.31097 0.74558,0.6586 -6.13126,8.18156 -0.69654,-0.0304 -2.74529,-5.04454 1.37802,-0.11779 1.69273,3.81467"
+         id="path6114-3-2-6-0-6"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fafafa;fill-opacity:1;stroke:none;display:inline;filter:url(#filter5708);font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Medium'"
+         d="m 160.18737,222.28752 5.85474,-7.44316 0.75907,0.6705 -6.24213,8.3295 -0.70914,-0.0309 -2.79492,-5.13576 1.40293,-0.11991 1.72334,3.88364"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6114-3-2-6-0"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:'M+ 2p';-inkscape-font-specification:'M+ 2p Medium'"
+         d="m 160.18737,222.28752 5.85474,-7.44316 0.75907,0.6705 -6.24213,8.3295 -0.70914,-0.0309 -2.79492,-5.13576 1.40293,-0.11991 1.72334,3.88364"
          sodipodi:nodetypes="cccccccc" />
     </g>
   </g>
